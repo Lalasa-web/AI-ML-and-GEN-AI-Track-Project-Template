@@ -343,8 +343,3 @@ Future improvements include:
 - Mobile application support
 - Advanced reporting features
 
----
-
-# Author
-
-Lalasa Annam
